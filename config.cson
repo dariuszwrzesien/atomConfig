@@ -1,0 +1,13 @@
+"*":
+  "autocomplete-plus": {}
+  autosave:
+    enabled: true
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "784c1bb0-e2ae-4325-a3d2-cf0f497e7919"
